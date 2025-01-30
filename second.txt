@@ -1,1 +1,3 @@
 hi I m khushi
+I m learning git
+from kaira sftwr
